@@ -1,2 +1,1 @@
-# TestPlan
-### It is a Test documentation for Coursera course
+# Test documentation for Coursera course
